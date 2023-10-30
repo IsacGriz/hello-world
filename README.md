@@ -4,7 +4,7 @@ Este é o primeiro exercício do curso na Cubos Academy. Consiste em um simples 
 
 ## Instruções
 
-1. Abra o arquivo `hello_world.js`.
+1. Abra o arquivo `hello-world.js`.
 2. Execute o código em um ambiente Node.js.
 3. O programa imprimirá "Hello, World!" no console.
 
