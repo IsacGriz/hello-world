@@ -15,6 +15,6 @@ Certifique-se de ter o Node.js instalado em seu ambiente. Você pode baixá-lo [
 Para executar o programa, siga os passos abaixo:
 
 ```bash
-node hello_world.js
+node hello-world.js
 
 
